@@ -3,3 +3,9 @@ Recently, the severity and frequency of natural disasters, particularly flooding
 
 ## System Architecture Diagram:
 <img width="659" alt="image" src="https://github.com/SANGAMITHRAMURUGESAN/Big-Data-Technologies-Bay-Area-Flood-Prediction-using-AWS-Tools/assets/78456699/64656988-b949-4b32-a8ac-31fcf72be43d">
+
+## Data Model Design:
+<img width="620" alt="image" src="https://github.com/SANGAMITHRAMURUGESAN/Big-Data-Technologies-Bay-Area-Flood-Prediction-using-AWS-Tools/assets/78456699/33653738-e629-4a2f-8a5a-73e7bffbdef4">
+
+## Interface Connectivity:
+<img width="405" alt="image" src="https://github.com/SANGAMITHRAMURUGESAN/Big-Data-Technologies-Bay-Area-Flood-Prediction-using-AWS-Tools/assets/78456699/01192aee-2b10-472a-a26f-75473c68f579">
