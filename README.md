@@ -1,17 +1,25 @@
-# Big-Data-Technologies-Bay-Area-Flood-Prediction-using-AWS-Tools
-Recently, the severity and frequency of natural disasters, particularly flooding, have increased due to climate change. Over the past decade, California has witnessed an average of a 34% YoY increase in flooding events. However, due to a lack of awareness, the number of flood insurance policies sought in the same period has dropped by 5.8%. The latest 2023 floods in California resulted in financial losses worth $31 billion, six times higher than the national average of flood-related financial losses since 2009. This project recognizes that heavy rains stand as the leading cause of flooding events and utilize climate (rainfall) data and flooding events data from NOAA, as well as insurance policies data from FEMA, to develop a data warehouse that can help in efficient analytics and deriving data-driven insights for better-informed flood-related policy-making. This project leverages the big data analytics engine Spark with Python Programming on the Google Colaboratory VMs for exploratory data analytics and the data analytics platform, Tableau for creating compelling visual dashboards. AWS technologies, such as S3 for data storage, GLUE for ETL operations, Redshift for data warehousing, and Redshift Query Editor for query data analytics, were employed. Furthermore, this project provides an end-to-end comprehensive real-world big data solution by building a web portal with Single-Sign-On functionality built with Google Firebase, allowing authorized users to download the Redshift data tables and view the tableau dashboards. Overall, the proposed big data platform offers a complete one-stop analytics solution for addressing the challenges posed by flooding events in California and demonstrates the feasibility of big data analytics in mitigating risks associated with natural disasters through data-driven insights for policy-making.
-## Technologies Used:
-Draw.io
 
-AWS S3 Bucket
+# Big Data Technologies: Bay Area Flood Prediction using AWS Tools
 
-AWS Glue
+## Project Overview
+This project tackles the challenge of increasing flood events in California due to climate change, with a focus on the Bay Area. Despite a 34% average yearly increase in flooding, there's been a decline in the adoption of flood insurance policies. The catastrophic 2023 floods in California, resulting in $31 billion in damages, underscore the urgency for improved flood-related policy-making. Our solution is a data warehouse that offers efficient analytics and insights for better decision-making.
 
-AWS Redshift
+## Context and Importance
+- **Rising Flood Events**: With a significant yearly increase in flood occurrences, California's crisis is worsening due to climate change.
+- **Insurance Policy Gap**: Despite more frequent floods, there's a noticeable decrease in the number of flood insurance policies.
+- **Economic Impact**: The 2023 California floods highlighted the stark need for improved analytics in flood prediction and policy planning.
 
-AWS Sagemaker
+## Data and Technologies
+- **Data Sources**: Utilizes rainfall data from NOAA and insurance policy data from FEMA.
+- **Data Analytics**: Leverages Apache Spark with Python on Google Colab VMs for exploratory data analysis and Tableau for visual dashboards.
+- **AWS Suite**: Employs AWS S3, GLUE, Redshift, and Redshift Query Editor for robust data storage, ETL operations, and warehousing.
 
-Tableau
+## Solution Highlights
+- **End-to-End Data Platform**: Provides a comprehensive solution for flood prediction and policy-making analytics.
+- **Web Portal**: Features a web portal with Single-Sign-On using Google Firebase, allowing authorized access to Redshift data tables and Tableau dashboards.
+
+## Impact and Future Work
+The big data platform developed in this project represents a step forward in harnessing the power of big data analytics to mitigate natural disaster risks and support data-driven policy-making in California.
 
 ## System Architecture Diagram:
 <img width="659" alt="image" src="https://github.com/SANGAMITHRAMURUGESAN/Big-Data-Technologies-Bay-Area-Flood-Prediction-using-AWS-Tools/assets/78456699/64656988-b949-4b32-a8ac-31fcf72be43d">
